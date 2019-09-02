@@ -1,0 +1,17 @@
+<svg width="1500" height="350" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <metadata id="metadata828">image/svg+xml</metadata>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <rect fill="none" height="38.51691" id="svg_3" stroke="#fff" stroke-width="11" transform="matrix(1.85006 1.836 -1.85006 1.836 -182.539 -1148.67)" width="38.36778" x="419.50027" y="263.01271"/>
+   <rect fill="none" height="38.51691" id="svg_5" stroke="#fff" stroke-width="11" transform="matrix(1.85006 1.836 -1.85006 1.836 -119.701 -1299.22)" width="38.36778" x="501.50028" y="263.01272"/>
+   <rect fill="none" height="61" id="svg_1" stroke="#fff" stroke-width="11" transform="matrix(1.85006 1.836 -1.85006 1.836 -151.12 -1223.95)" width="61" x="449.18416" y="251.77117"/>
+   <rect fill="none" height="0.03483" id="svg_6" stroke="#fff" stroke-width="11" transform="matrix(1.85006 1.836 -1.85006 1.836 -197.265 -1184.02)" width="37.48683" x="433.55897" y="268.65323"/>
+   <rect fill="none" height="0.03483" id="svg_7" stroke="#fff" stroke-width="11" transform="matrix(1.85006 1.836 -1.85006 1.836 -104.782 -1263.9)" width="37.48683" x="488.37141" y="295.93832"/>
+  </g>
+  <g id="svg_4">
+   <text fill="#fff" font-family="ARIAL BLACK" font-size="35" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(6.70368 0 0 6.77539 -2254.32 -1932.46)" x="433.07869" xml:space="preserve" y="324.89763">Dev</text>
+   <text fill="#fff" font-family="ARIAL BLACK" font-size="35" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(6.70368 0 0 6.77539 -2254.32 -1934.26)" x="512.45565" xml:space="preserve" y="325.16248">Kats</text>
+  </g>
+ </g>
+</svg>
