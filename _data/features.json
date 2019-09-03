@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Project Based Pricing",
+    "description": "Smarter Needs are met with smarter payment options now.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Milestone Based Billing",
+    "description": "Take Advantage of all the billing models we offer.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Hire Dedicated Resource",
+    "description": "Hire as many dedicated Resources from the many we have to boost your business.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
