@@ -13,7 +13,7 @@ Can you sell ice cream to an eskimo? YES, YOU CAN. As long as you have a great d
 
 We care for your not-so-tech-savvy customers and make sure that their experience of shopping on your ecommerce site is absolutely pain free. The basic objective is to enable your customers to place online orders and have them delivered at their doorstep. This is highly convenient but needs professional assistance in putting the framework in place. This is where DevKats comes in. We have highly skilled and sophisticated experts working on developing options for your e-Commerce needs. All you have to do is contact us and we will take care of the rest.
 
-We have experties in 
+We have expertise in 
 1. Magento
 2. Shopify
 3. WordPress

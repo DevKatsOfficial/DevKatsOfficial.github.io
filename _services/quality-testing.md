@@ -5,7 +5,7 @@ image: '/services/default.png'
 
 The world is moving towards the specialization and perfection. Software quality engineering is taking a huge part in its development.
 
-New innovations like tablets, smartphones, and latest OS, helping the planet to grow much faster than before. For those developments, you need better upgrades, better testing, and better quality assurance. DevKats helps you to boost your development initiatives, testing products, and testing infrastructure that ensures the quality and test coverage of your product. Not only that we even provide you the most reliable support ranging from hardware to software.
+New innovations like tablets, smart-phones, and latest OS, helping the planet to grow much faster than before. For those developments, you need better upgrades, better testing, and better quality assurance. DevKats helps you to boost your development initiatives, testing products, and testing infrastructure that ensures the quality and test coverage of your product. Not only that we even provide you the most reliable support ranging from hardware to software.
 
 
 ## What Our Software Quality Engineers Can Do For You?
